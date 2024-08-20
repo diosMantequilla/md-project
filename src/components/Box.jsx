@@ -5,7 +5,7 @@ const Box = () => {
     return (
         <div className='cajita'>
             <h2>titulo</h2>
-            <p>Este es el contenidoH</p>
+            <p>Este es el contenido</p>
         </div>
     )
 }
